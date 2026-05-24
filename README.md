@@ -23,11 +23,17 @@
 ### 🛠️ Skills
 
 **Frontend :** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap 5
+
 **Backend :** Core Java, Spring Boot, Hibernate, RESTful APIs
+
 **Database :** MySQL
+
 **Tools :** Git, GitHub, VS Code, Postman, Maven, MS Office, AI Prompting
+
 **Core Concepts :** OOPs, CRUD Operations, ORM, DOM Manipulation, LocalStorage
+
 **Cloud :** AWS
+
 **Other Skills :** Python Basics, Data Science, Deep Learning, Data Visualization
 
 ---
