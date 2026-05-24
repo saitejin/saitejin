@@ -28,14 +28,13 @@
 
 **Database :** MySQL
 
-**Tools :** Git, GitHub, VS Code, Postman, Maven, MS Office, Jupyter Notebook
+**Tools :** Git, GitHub, VS Code, Postman, Maven, MS Office, AI Prompting
 
 **Core Concepts :** OOPs, CRUD Operations, ORM, DOM Manipulation, LocalStorage
 
-**Cloud & AI Tools :** AWS, Prompt Engineering, Google Gemini API
+**Cloud :** AWS 
 
-**Data Science & AI :** Python Basics, Data Science, Deep Learning, Data Visualization, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
-
+**Other Skills :** Python Basics, Data Science, Deep Learning, Data Visualization
 ---
 
 ### 🚀 Projects
