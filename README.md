@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in CSE - Data Science**
+- 🎓 **B.Tech in CSE - Data Science in 2026**
 - 💻 Passionate about **Full Stack Java Development**
 - 🌱 Main focus on **React.js** and **Spring Boot**
 - 🚀 Built projects on **Frontend and Backend** responsive and api's handling
