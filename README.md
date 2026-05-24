@@ -13,10 +13,10 @@
 
 - 🎓 Pursuing **B.Tech in CSE - Data Science**
 - 💻 Passionate about **Full Stack Java Development**
-- 🤖 Interested in **Deep Learning** and **Data Science**
-- 🌱 Currently learning **React.js** and **Spring Boot**
-- 🚀 Built projects on **Smart Grid Anomaly Detection** and **Restaurant Web Design**
+- 🌱 Main focus on **React.js** and **Spring Boot**
+- 🚀 Built projects on **Frontend and Backend** responsive and api's handling
 - 💡 Love turning ideas into clean, responsive web experiences
+- 🤖 Have an idea in **Deep Learning** and **Data Science**
 
 ---
 
@@ -28,13 +28,13 @@
 
 **Database :** MySQL
 
-**Data Science & AI :** Python Basics, Data Science, Deep Learning, Data Visualization, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
-
-**Cloud & AI Tools :** AWS, Prompt Engineering, Google Gemini API
-
 **Tools :** Git, GitHub, VS Code, Postman, Maven, MS Office, Jupyter Notebook
 
 **Core Concepts :** OOPs, CRUD Operations, ORM, DOM Manipulation, LocalStorage
+
+**Cloud & AI Tools :** AWS, Prompt Engineering, Google Gemini API
+
+**Data Science & AI :** Python Basics, Data Science, Deep Learning, Data Visualization, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
 
 ---
 
